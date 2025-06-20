@@ -1,1 +1,1 @@
-# Event-Tiketing-System
+# Event-Ticketing-System
